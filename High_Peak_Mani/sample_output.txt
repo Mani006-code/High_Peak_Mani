@@ -1,0 +1,10 @@
+The goodies selected for distribution are:
+
+MI Band: 800
+Microwave Oven: 1020
+Alexa: 1200
+Sandwich Toaster: 1987
+Cult Pass: 3674
+Scale: 7000
+
+And the difference between the chosen goodie with highest price and the lowest price is 6200

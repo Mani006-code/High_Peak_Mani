@@ -1,0 +1,14 @@
+Number of employees: 6
+
+Goodies and Prices:
+
+Fitbit Plus: 9600
+IPods: 34592
+MI Band: 800
+Cult Pass: 3674
+Macbook Pro: 144900
+Digital Camera: 200101
+Alexa: 1200
+Sandwich Toaster: 1987
+Microwave Oven: 1020
+Scale: 7000
